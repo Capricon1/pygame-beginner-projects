@@ -1,7 +1,7 @@
 ## Installation
 
-```
-pip install pygame==2.1.2
+```bash
+pip install -r .\requirements.txt
 ```
 
 Enjoy!!😍
